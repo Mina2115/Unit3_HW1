@@ -22,7 +22,7 @@ require([
           2500// elevation in meters
         ],
         tilt:45,
-        heading: 0 
+        heading: 90 
       })
 
       var view = new SceneView({
